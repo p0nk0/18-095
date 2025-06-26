@@ -4,14 +4,19 @@ A handheld game prototype developed as my final project for CMU's 18-095: Gettin
 ## Oveview
 As an exploration into non-traditional input systems, this Arduino project uses a slide potentiometer to control the player's vertical position. The game itself is inspired by Flappy Bird.
 
+## Features
+- Score and High Score systems
+- Customizable player colors
+
 ## Hardware
 - Arduino Mega
-- 3.5'' LCD Screen
-- Slide Potentiometer
+- [3.5" LCD Screen](https://www.amazon.com/HiLetgo-Display-ILI9481-480X320-Mega2560/dp/B073R7Q8FF)
+- [Slide Potentiometer](https://www.sparkfun.com/slide-pot-medium-10k-linear-taper.html)
 - Buttons
 
 ## Setup
-- I downloaded the TFT_HX8357 library from [github.com/Bodmer/TFT_HX8357]
+- I downloaded the TFT_HX8357 library from [github.com/Bodmer/TFT_HX8357](github.com/Bodmer/TFT_HX8357) and customized according to the instructions in User_Setup.h according to my specific LCD Screen.
+- I've included my customized library file as part of this repo.
 
 ## Wiring Diagram
 
