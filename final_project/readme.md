@@ -19,15 +19,15 @@ As an exploration into non-traditional input systems, this Arduino project uses 
 - I've included my customized library file as part of this repo.
 
 ## Media
-![system](img/entire_system.jpg)
 This is the overall system, including the screen and the controller.
+![system](img/entire_system.jpg)
 
-![screen](img/screen.jpg)
 This is a closer look at the screen.
+![screen](img/screen.jpg)
 
 ## Schematics and Diagrams
-![block diagram](img/block_diagram.png)
 This is a block diagram of the Arduino pins.
+![block diagram](img/block_diagram.png)
 
-![schematic](img/schematic.png)
 This is a schematic for the electrical components.
+![schematic](img/schematic.png)
