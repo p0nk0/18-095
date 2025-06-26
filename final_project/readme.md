@@ -18,6 +18,9 @@ As an exploration into non-traditional input systems, this Arduino project uses 
 - I downloaded the TFT_HX8357 library from [github.com/Bodmer/TFT_HX8357](https://github.com/Bodmer/TFT_HX8357) and customized according to the instructions in User_Setup.h according to my specific LCD Screen.
 - I've included my customized library file as part of this repo.
 
-## Wiring Diagram
+## Schematics and Diagrams
+![block diagram](img/block_diagram.png)
+
+![schematic](img/schematic.png)
 
 ## Media
