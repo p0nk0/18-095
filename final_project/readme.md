@@ -22,13 +22,12 @@ As an exploration into non-traditional input systems, this Arduino project uses 
 ![system](img/entire_system.jpg)
 This is the overall system, including the screen and the controller.
 
-![controller](img/controller.jpg)
-This is the controller, including the slide potentiometer and the buttons.
-
 ![screen](img/screen.jpg)
 This is a closer look at the screen.
 
 ## Schematics and Diagrams
 ![block diagram](img/block_diagram.png)
+This is a block diagram of the Arduino pins.
 
 ![schematic](img/schematic.png)
+This is a schematic for the electrical components.
